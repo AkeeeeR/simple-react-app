@@ -1,13 +1,13 @@
 {
   "main.css": "/simple-react-app/static/css/main.c867eb38.chunk.css",
-  "main.js": "/simple-react-app/static/js/main.7b469983.chunk.js",
-  "main.js.map": "/simple-react-app/static/js/main.7b469983.chunk.js.map",
+  "main.js": "/simple-react-app/static/js/main.addcc01c.chunk.js",
+  "main.js.map": "/simple-react-app/static/js/main.addcc01c.chunk.js.map",
   "runtime~main.js": "/simple-react-app/static/js/runtime~main.d5660f83.js",
   "runtime~main.js.map": "/simple-react-app/static/js/runtime~main.d5660f83.js.map",
   "static/js/2.26ff2db8.chunk.js": "/simple-react-app/static/js/2.26ff2db8.chunk.js",
   "static/js/2.26ff2db8.chunk.js.map": "/simple-react-app/static/js/2.26ff2db8.chunk.js.map",
   "index.html": "/simple-react-app/index.html",
-  "precache-manifest.bcf2a2272782d86104bd659a2c7dd1df.js": "/simple-react-app/precache-manifest.bcf2a2272782d86104bd659a2c7dd1df.js",
+  "precache-manifest.16a359ae816a6740f74ae8263cd5961e.js": "/simple-react-app/precache-manifest.16a359ae816a6740f74ae8263cd5961e.js",
   "service-worker.js": "/simple-react-app/service-worker.js",
   "static/css/main.c867eb38.chunk.css.map": "/simple-react-app/static/css/main.c867eb38.chunk.css.map"
 }
