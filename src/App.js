@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.scss';
-import Content from './components/content/Content';
 import MyNav from './components/nav/MyNav';
 import Menu from './components/sidebar/SideBar';
 import Description from './components/description/Description';
@@ -17,10 +16,10 @@ class App extends Component {
         </header>
         <section></section>
         <main className="row">
-          <div className="col-sm-4 disable-padding">
+          <div className="col-sm-4 main-supp main-side">
             <Menu />
           </div>
-          <div className="col-sm-8 disable-padding">
+          <div className="col-sm-8 main-supp">
             <Description />
           </div>
         </main>

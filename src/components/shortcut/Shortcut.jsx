@@ -1,10 +1,6 @@
 import React from 'react';
 import '../content/Content.scss';
-import Content from '../content/Content';
-import {
-    BrowserRouter as Router,
-    Link
-} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const Shortcut = () => {
     return (
