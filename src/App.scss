@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  min-height: 115px;
+}
+
+.logo {
+  background-color: #ff0700;
+  height: auto;
+}
+
+.header-box {
+  padding: 0;
+}
+
+section {
+  height: 145px;
+  background-color: #24ff00;
+}
+
+.container {
+  text-align: center;
+  max-width: 100%;
+  padding: 0;
+}
+
+.row {
+  margin: 0;
+  height: auto;
+}
+
+.disable-padding {
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    height: 115px;
+  }
+}
+
+main {
+  height: 100%;
+}
